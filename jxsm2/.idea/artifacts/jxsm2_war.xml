@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jxsm2:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jxsm.war">
+      <element id="artifact" artifact-name="jxsm2:war exploded" />
+    </root>
+  </artifact>
+</component>
